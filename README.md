@@ -1,18 +1,15 @@
-# ricardo-fahham
+# Ricardo Fahham
 👋Hello, I'm Ricardo Fahham! 👋
 
 I am a professional with more than 10 years of experience in the field of infrastructure and automation resources in the Cloud. 
 
 I am a technology enthusiast and I love learn aboult new tools
 
-💻 DevOps Engineer
-
-🏡 Brazilian, Based in Petrópolis, RJ.
-
-🌎 Find me around the web
-
-💼 https://www.linkedin.com/in/ricardo-fahham/
-
+- 💻 DevOps Engineer
+- 🏡 Brazilian, Based in Petrópolis, RJ.
+- 🌎 Find me around the web
+- 💼 https://www.linkedin.com/in/ricardo-fahham/
+- 📫 rfahham@hotmail.com
 
 <!--
 ## Hi there 👋
