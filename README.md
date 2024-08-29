@@ -28,17 +28,26 @@ I am a technology enthusiast and I love learn aboult new tools
 <img align="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
-### DB
+### GIT
+<div style="display: inline_block">
+<img align="center" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+<img align="center" alt="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+<img align="center" alt="" src="">
+<img align="center" alt="" src="">
+</div>
+
+
+### Database
 <div style="display: inline_block">
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
 </div>
 
 ### Cloud
 <div style="display: inline_block">
 <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img align="center" alt="" src="">
-<img align="center" alt="" src="">
-<img align="center" alt="" src="">
+<img align="center" alt="" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img align="center" alt="" src="">
 </div>
 
@@ -50,6 +59,18 @@ I am a technology enthusiast and I love learn aboult new tools
 <img align="center" alt="Cypress" src="">
 <img align="center" alt="Robot" src="">
 <img align="center" alt="Cucumber" src="">
+</div>
+
+### IDE
+<div style="display: inline_block">
+<img align="center" alt="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+<img align="center" alt="" src="[https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)">
+</div>
+
+### Terminal
+<div style="display: inline_block">
+<img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
 </div>
 
 
