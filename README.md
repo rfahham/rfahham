@@ -13,22 +13,22 @@ I am a technology enthusiast and I love learn aboult new tools
 
 ![Fahham GitHub stats](https://github-readme-stats.vercel.app/api?username=rfahham&show_icons=true&theme=radical)
 
-### Sistemas Operacionais
+### OS
 
 <div style="display: inline_block">
 <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img align="center" alt="MacOS" src="    https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+<img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
-### Linguagens de programação
+### Skills
 <div style="display: inline_block">
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
 </div>
 
-### Banco de Dados
+### DB
 <div style="display: inline_block">
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
@@ -44,7 +44,6 @@ I am a technology enthusiast and I love learn aboult new tools
 
 ### Tests
 <div style="display: inline_block">
-
 <img align="center" alt="K6" src="">
 <img align="center" alt="Locust" src="">
 <img align="center" alt="Selenium" src="">
