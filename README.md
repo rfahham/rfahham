@@ -7,7 +7,19 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-fahham/)
 - ✉️ rfahham@gmail.com
-- 📚 [Curriculum](curriculum.md) 
+- 📚 [Curriculum](curriculum.md)
+
+<!-- <div align="left">
+  <a href="https://www.linkedin.com/in/ricardo-fahham/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://w.app/g3INL9">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:rfahham@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div> -->
 
 ## 💻 Áreas de Interesse
 
@@ -68,10 +80,8 @@ Experiência com as principais ferramentas e práticas para garantir a confiabil
 
 ---
 
-![Fahham GitHub stats](https://github-readme-stats.vercel.app/api?username=rfahham&show_icons=true&theme=radical)
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rfahham&show_icons=true&theme=radical" height="290" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rfahham&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfahham&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rfahham&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="290" alt="languages graph"  />
 </div>
