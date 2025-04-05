@@ -45,50 +45,44 @@ Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 
 ### Na área de QA
 
-Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade:
-
-- [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
-- [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
-- [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
-- [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
-- [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
-- [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
-
 <details>
-<summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade:</summary>
+<summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade.</summary>
 
-- [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
-- [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
-- [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
-- [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
-- [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
-- [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
-
+  - [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
+  - [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
+  - [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
+  - [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
+  - [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
+  - [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
 </details>
 
 --- 
 
 ### Na área de DEVOPS
 
-Experiência com as principais ferramentas e tecnologias para otimização e automação de processos:
+<details>
+  <summary>Experiência com as principais ferramentas e tecnologias para otimização e automação de processos.</summary>
 
-- **Infraestrutura como Código (IaC):** Automação e gerenciamento de infraestrutura de forma eficiente e escalável.
-- **Construção de Pipelines:** Criação e otimização de pipelines CI/CD para integração e entrega contínua.
-- **Gerenciamento de Containers:** Orquestração de containers usando Docker e Kubernetes para escalabilidade e robustez.
-- **Monitoramento e Observabilidade:** Ferramentas como Prometheus, Grafana e ELK Stack para monitoramento e análise de performance.
-- **Automação de Configuração:** Utilização de Ansible, Terraform e Vagrant para provisionamento e automação de ambientes.
+  - **Infraestrutura como Código (IaC):** Automação e gerenciamento de infraestrutura de forma eficiente e escalável.
+  - **Construção de Pipelines:** Criação e otimização de pipelines CI/CD para integração e entrega contínua.
+  - **Gerenciamento de Containers:** Orquestração de containers usando Docker e Kubernetes para escalabilidade e robustez.
+  - **Monitoramento e Observabilidade:** Ferramentas como Prometheus, Grafana e ELK Stack para monitoramento e análise de performance.
+  - **Automação de Configuração:** Utilização de Ansible, Terraform e Vagrant para provisionamento e automação de ambientes.
+</details>
 
 ---
 
 ### Na área de SRE
 
-Experiência com as principais ferramentas e práticas para garantir a confiabilidade, escalabilidade e performance dos sistemas:
+<details>
+  <summary>Experiência com as principais ferramentas e práticas para garantir a confiabilidade, escalabilidade e performance dos sistemas.</summary>
 
-- **Monitoramento e Observabilidade:** Utilização de **Prometheus**, **Grafana** e **ELK Stack** para monitorar infraestrutura e aplicações, garantindo performance e disponibilidade.
-- **SLA, SLI e SLO:** Implementação e acompanhamento de **Service Level Agreements** (SLAs), **Service Level Indicators** (SLIs) e **Service Level Objectives** (SLOs) para assegurar a excelência operacional.
-- **Gestão de Incidentes:** Práticas para gestão de incidentes e resposta rápida, utilizando ferramentas como **PagerDuty** e **Opsgenie**.
-- **Automação de Recuperação:** Aplicação de estratégias de **Chaos Engineering** e **Resilience Testing** para simular falhas e avaliar a recuperação do sistema sob condições adversas.
-- **Escalabilidade e Performance:** Ferramentas e abordagens para garantir que sistemas escalem de forma eficiente e mantenham alta disponibilidade, como **Kubernetes**, **Docker** e **AWS**.
+  - **Monitoramento e Observabilidade:** Utilização de **Prometheus**, **Grafana** e **ELK Stack** para monitorar infraestrutura e aplicações, garantindo performance e disponibilidade.
+  - **SLA, SLI e SLO:** Implementação e acompanhamento de **Service Level Agreements** (SLAs), **Service Level Indicators** (SLIs) e **Service Level Objectives** (SLOs) para assegurar a excelência operacional.
+  - **Gestão de Incidentes:** Práticas para gestão de incidentes e resposta rápida, utilizando ferramentas como **PagerDuty** e **Opsgenie**.
+  - **Automação de Recuperação:** Aplicação de estratégias de **Chaos Engineering** e **Resilience Testing** para simular falhas e avaliar a recuperação do sistema sob condições adversas.
+  - **Escalabilidade e Performance:** Ferramentas e abordagens para garantir que sistemas escalem de forma eficiente e mantenham alta disponibilidade, como **Kubernetes**, **Docker** e **AWS**.
+</details>
 
 ---
 
