@@ -1,76 +1,73 @@
-# Ricardo Fahham
-👋Hello, I'm Ricardo Fahham! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Fahham!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-I am a professional with more than 10 years of experience in the field of QA,infrastructure and automation resources in the Cloud. 
+Profissional com mais de 13 anos de experiência em **QA**, **DevOps** e **SRE**, com uma sólida trajetória na Globo, onde desempenhei papéis chave em testes de software, automação e infraestrutura. Minhas áreas de expertise incluem a criação e execução de testes manuais e automatizados, implementação de práticas DevOps e SRE, e otimização de desempenho e confiabilidade das aplicações.
 
-I am a technology enthusiast and I love learn aboult new tools
+Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 
-- 💻 QA / DevOps / SRE
-- 🏡 Brazilian, Based in Petrópolis, RJ.
-- 🌎 Find me around the web
-- 💼 https://www.linkedin.com/in/ricardo-fahham/
-- 📫 rfahham@hotmail.com
+## 🌎 Encontre-me na web
+    - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-fahham/)
+    - ✉️ rfahham@gmail.com
+    - 📚 [Curriculum](curriculum.md) 
+
+## 💻 Áreas de Interesse
+
+- **QA** – Assegurando a Qualidade das Aplicações:
+  - **Testes Manuais:** Análise detalhada e execução de testes manuais para garantir a qualidade do software.
+  - **Testes Automatizados:** Desenvolvimento de scripts para automatizar testes e aumentar a eficiência.
+  - **Testes de Performance:** Avaliação da escalabilidade e estabilidade das aplicações.
+
+--- 
+
+- **DEVOPS** – Adotando as melhores práticas para uma operação eficiente:
+  - **Cloud:** Gestão de ambientes em nuvem pública e privada.
+  - **Infraestrutura como Código:** Automação da infraestrutura para facilitar o gerenciamento e a escalabilidade.
+  - **Pipeline:** Implementação e otimização de pipelines para automação de processos.
+
+--- 
+
+- **SRE** – Garantindo a Confiabilidade e Disponibilidade:
+  - **Monitoramento:** Acompanhamento contínuo da infraestrutura e aplicações para garantir sua performance e disponibilidade.
+
+
+## 👨‍💻Conhecimentos 
+
+### Na área de QA
+
+Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade:
+
+- [**Selenium**](https://www.selenium.dev/): Automação de navegadores para testes de aplicações web.
+- [**Robot Framework**](https://robotframework.org/): Framework de automação de testes baseado em palavras-chave.
+- [**Cypress**](https://www.cypress.io/): Framework moderno para testes end-to-end de aplicações web.
+- [**Playwright**](https://playwright.dev/): Framework para automação de testes em múltiplos navegadores.
+- [**Postman**](https://www.postman.com/): Postman é sua plataforma única para desenvolvimento colaborativo de API. 
+- [**k6**](https://grafana.com/docs/k6/latest/): O Grafana k6 é uma ferramenta de teste de carga extensível, de código aberto e fácil de usar para desenvolvedores.
+
+--- 
+
+### Na área de DEVOPS
+
+Experiência com as principais ferramentas e tecnologias para otimização e automação de processos:
+
+- **Infraestrutura como Código (IaC):** Automação e gerenciamento de infraestrutura de forma eficiente e escalável.
+- **Construção de Pipelines:** Criação e otimização de pipelines CI/CD para integração e entrega contínua.
+- **Gerenciamento de Containers:** Orquestração de containers usando Docker e Kubernetes para escalabilidade e robustez.
+- **Monitoramento e Observabilidade:** Ferramentas como Prometheus, Grafana e ELK Stack para monitoramento e análise de performance.
+- **Automação de Configuração:** Utilização de Ansible, Terraform e Vagrant para provisionamento e automação de ambientes.
+
+Claro! Aqui está uma versão melhorada da descrição para a área de **SRE**:
+
+---
+
+### Na área de SRE
+
+Experiência com as principais ferramentas e práticas para garantir a confiabilidade, escalabilidade e performance dos sistemas:
+
+- **Monitoramento e Observabilidade:** Utilização de **Prometheus**, **Grafana** e **ELK Stack** para monitorar infraestrutura e aplicações, garantindo performance e disponibilidade.
+- **SLA, SLI e SLO:** Implementação e acompanhamento de **Service Level Agreements** (SLAs), **Service Level Indicators** (SLIs) e **Service Level Objectives** (SLOs) para assegurar a excelência operacional.
+- **Gestão de Incidentes:** Práticas para gestão de incidentes e resposta rápida, utilizando ferramentas como **PagerDuty** e **Opsgenie**.
+- **Automação de Recuperação:** Aplicação de estratégias de **Chaos Engineering** e **Resilience Testing** para simular falhas e avaliar a recuperação do sistema sob condições adversas.
+- **Escalabilidade e Performance:** Ferramentas e abordagens para garantir que sistemas escalem de forma eficiente e mantenham alta disponibilidade, como **Kubernetes**, **Docker** e **AWS**.
+
+---
 
 ![Fahham GitHub stats](https://github-readme-stats.vercel.app/api?username=rfahham&show_icons=true&theme=radical)
-
-### OS
-
-<div style="display: inline_block">
-<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img align="center" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div>
-
-### Skills
-<div style="display: inline_block">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="GO" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</div>
-
-### GIT
-<div style="display: inline_block">
-<img align="center" alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img align="center" alt="" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<img align="center" alt="" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-<img align="center" alt="" src="">
-<img align="center" alt="" src="">
-</div>
-
-
-### Database
-<div style="display: inline_block">
-<img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
-</div>
-
-### Cloud
-<div style="display: inline_block">
-<img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-<img align="center" alt="" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-<img align="center" alt="" src="">
-</div>
-
-### Tests
-<div style="display: inline_block">
-<img align="center" alt="K6" src="">
-<img align="center" alt="Locust" src="">
-<img align="center" alt="Selenium" src="">
-<img align="center" alt="Cypress" src="">
-<img align="center" alt="Robot" src="">
-<img align="center" alt="Cucumber" src="">
-</div>
-
-### IDE
-<div style="display: inline_block">
-<img align="center" alt="" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
-<img align="center" alt="" src="[https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)">
-</div>
-
-### Terminal
-<div style="display: inline_block">
-<img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img align="center" alt="" src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white">
-</div>
-
-
