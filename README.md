@@ -5,9 +5,9 @@ Profissional com mais de 13 anos de experiência em **QA**, **DevOps** e **SRE**
 Sou um entusiasta de tecnologia e adoro aprender sobre novas tecnologias.
 
 ## 🌎 Encontre-me na web
-    - 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-fahham/)
-    - ✉️ rfahham@gmail.com
-    - 📚 [Curriculum](curriculum.md) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-fahham/)
+- ✉️ rfahham@gmail.com
+- 📚 [Curriculum](curriculum.md) 
 
 ## 💻 Áreas de Interesse
 
@@ -53,8 +53,6 @@ Experiência com as principais ferramentas e tecnologias para otimização e aut
 - **Gerenciamento de Containers:** Orquestração de containers usando Docker e Kubernetes para escalabilidade e robustez.
 - **Monitoramento e Observabilidade:** Ferramentas como Prometheus, Grafana e ELK Stack para monitoramento e análise de performance.
 - **Automação de Configuração:** Utilização de Ansible, Terraform e Vagrant para provisionamento e automação de ambientes.
-
-Claro! Aqui está uma versão melhorada da descrição para a área de **SRE**:
 
 ---
 
