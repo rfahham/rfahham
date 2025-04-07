@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Fahham!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Ricardo+Fahham!+%F0%9F%91%8B)](https://git.io/typing-svg)
 </div>
 
 Profissional com mais de 13 anos de experiência em **QA**, **DevOps** e **SRE**, com uma sólida trajetória na Globo, onde desempenhei papéis chave em testes de software, automação e infraestrutura. Minhas áreas de expertise incluem a criação e execução de testes manuais e automatizados, implementação de práticas DevOps e SRE, e otimização de desempenho e confiabilidade das aplicações.
