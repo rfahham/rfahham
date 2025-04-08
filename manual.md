@@ -94,4 +94,16 @@ Isso resultará em uma linha de ícones, como mostrado abaixo:
 
 ---
 
+🖥️ Segue um tutorial: https://lnkd.in/dwRvhg7r
+
+Links para construir o seu: 
+- Render: https://lnkd.in/dkDgqWRX
+- Gif hi: https://lnkd.in/dk--8AQE
+- Git globo: https://lnkd.in/d6yVbZFG
+- Cards status: https://lnkd.in/dZsWb3Sc
+- Botoes: https://lnkd.in/dFqVisry
+- Contador: https://lnkd.in/dybmxwxN
+
+---
+
 Essas são algumas das formas de personalizar seu perfil no GitHub e deixá-lo mais atrativo e informativo. Seja criativo e divirta-se!
